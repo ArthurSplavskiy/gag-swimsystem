@@ -130,7 +130,7 @@ body {
 
 :root {
 	--bg: #0f0f0f;
-	--gradientBg: linear-gradient(45deg, #40e0d0, #9932cc, #ff1493, orange);
+	--gradientBg: linear-gradient(45deg, #67A9D2, #088ECB);
 }
 
 /* Hero */
